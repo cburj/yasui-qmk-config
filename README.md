@@ -1,3 +1,3 @@
 # yasui-qmk-config
 
-![Yasui Keybinds](Keymap.png)
+![Yasui Keybinds](Yasui.PNG)
